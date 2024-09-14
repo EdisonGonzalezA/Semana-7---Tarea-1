@@ -1,0 +1,16 @@
+Instalacion
+NodeJs
+Angular
+pnpm
+--------------
+Direccionar a la Ruta donde quiero que se cree el proyecto
+
+Iniciar Proyecto bajado de Github
+pnpm I (intala las librerias de angular osea el Node_Modules)
+pnpm start (arranca el proyecto en modo de escucha)
+
+
+---Proyecto Angular
+
+Servicios => Service => ng g service Nombre_Servicio
+    Httpclient => controllers/proveedores.controlles.php?op=todos
